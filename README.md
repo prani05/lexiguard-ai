@@ -4,8 +4,7 @@ LexiGuard AI is a modern SaaS portfolio platform designed to automate pre-signat
 
 ---
 
-## 🚀 Live Demo (https://lexiguard-ai-gamma.vercel.app)
-
+## 🚀 [![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-blue?style=for-the-badge)](https://lexiguard-ai-gamma.vercel.app)
 - 🌐 **Frontend (Vercel):** https://lexiguard-ai-gamma.vercel.app
 - ⚙️ **Backend API (Railway):** https://lexiguard-ai.up.railway.app
 - ❤️ **Health Check:** https://lexiguard-ai.up.railway.app/api/health
